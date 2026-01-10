@@ -1,0 +1,8 @@
+[Sound Theme]
+Name=Plasma CrossCode Sounds
+Comment=Sound theme with sound effects from the game CrossCode (Amazing game btw, worth every money) for KDE Plasma
+Directories=stereo
+Example=theme-demo
+
+[stereo]
+OutputProfile=stereo
